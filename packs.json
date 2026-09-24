@@ -94,35 +94,6 @@
         "settings": {
           "vnext": [
             {
-              "address": "158.160.231.108",
-              "port": 8443,
-              "users": [
-                {
-                  "id": "0ff47d28-d0d6-4d8f-9d44-593ea39d828f",
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "security": "reality",
-          "realitySettings": {
-            "serverName": "ads.x5.ru",
-            "publicKey": "YBKQqcPbFlOY4Yw-DUUldDBQ0PZwq9Ergd-YbRHzy2I",
-            "shortId": "",
-            "fingerprint": "chrome"
-          }
-        }
-      },
-      {
-        "tag": "lte-2",
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
               "address": "158.160.12.31",
               "port": 443,
               "users": [
@@ -147,7 +118,7 @@
         }
       },
       {
-        "tag": "lte-3",
+        "tag": "lte-2",
         "protocol": "vless",
         "settings": {
           "vnext": [
@@ -171,6 +142,35 @@
             "serverName": "ads.x5.ru",
             "publicKey": "YBKQqcPbFlOY4Yw-DUUldDBQ0PZwq9Ergd-YbRHzy2I",
             "shortId": "6ba85179e30d4fc2",
+            "fingerprint": "chrome"
+          }
+        }
+      },
+      {
+        "tag": "lte-3",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "158.160.231.108",
+              "port": 8443,
+              "users": [
+                {
+                  "id": "0ff47d28-d0d6-4d8f-9d44-593ea39d828f",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "ads.x5.ru",
+            "publicKey": "YBKQqcPbFlOY4Yw-DUUldDBQ0PZwq9Ergd-YbRHzy2I",
+            "shortId": "",
             "fingerprint": "chrome"
           }
         }
