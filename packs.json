@@ -94,35 +94,6 @@
         "settings": {
           "vnext": [
             {
-              "address": "158.160.228.216",
-              "port": 443,
-              "users": [
-                {
-                  "id": "04913a93-529d-0208-9ffd-b37948df532b",
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "security": "reality",
-          "realitySettings": {
-            "serverName": "ads.x5.ru",
-            "publicKey": "sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM",
-            "shortId": "",
-            "fingerprint": "chrome"
-          }
-        }
-      },
-      {
-        "tag": "lte-2",
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
               "address": "89.208.230.241",
               "port": 5443,
               "users": [
@@ -141,6 +112,35 @@
           "realitySettings": {
             "serverName": "max.ru",
             "publicKey": "LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ",
+            "shortId": "",
+            "fingerprint": "chrome"
+          }
+        }
+      },
+      {
+        "tag": "lte-2",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "158.160.228.216",
+              "port": 443,
+              "users": [
+                {
+                  "id": "04913a93-529d-0208-9ffd-b37948df532b",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "ads.x5.ru",
+            "publicKey": "sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM",
             "shortId": "",
             "fingerprint": "chrome"
           }
@@ -200,7 +200,7 @@
             "serverName": "max.ru",
             "publicKey": "Rf2jgZShaYRQ2kh9nF79eB2KFcIdiYHwPWJyFKA_CWU",
             "shortId": "",
-            "fingerprint": "firefox"
+            "fingerprint": "chrome"
           }
         }
       },
