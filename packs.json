@@ -123,11 +123,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "188.225.78.141",
-              "port": 443,
+              "address": "158.160.231.108",
+              "port": 8443,
               "users": [
                 {
-                  "id": "258ea6ce-8488-4560-bfef-fea2f8bb8caf",
+                  "id": "0ff47d28-d0d6-4d8f-9d44-593ea39d828f",
                   "encryption": "none",
                   "flow": "xtls-rprx-vision"
                 }
@@ -139,10 +139,10 @@
           "network": "tcp",
           "security": "reality",
           "realitySettings": {
-            "serverName": "max.ru",
-            "publicKey": "q7-UiP5VTNSa_KKMZV62HAND6cudj8evyGBTHl3jlTY",
-            "shortId": "6ecafcd5a84ae6ad",
-            "fingerprint": "android"
+            "serverName": "ads.x5.ru",
+            "publicKey": "YBKQqcPbFlOY4Yw-DUUldDBQ0PZwq9Ergd-YbRHzy2I",
+            "shortId": "",
+            "fingerprint": "chrome"
           }
         }
       },
@@ -181,11 +181,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "158.160.231.108",
-              "port": 8443,
+              "address": "158.160.228.216",
+              "port": 443,
               "users": [
                 {
-                  "id": "0ff47d28-d0d6-4d8f-9d44-593ea39d828f",
+                  "id": "04913a93-529d-0212-9ffd-b37948df532b",
                   "encryption": "none",
                   "flow": "xtls-rprx-vision"
                 }
@@ -198,7 +198,7 @@
           "security": "reality",
           "realitySettings": {
             "serverName": "ads.x5.ru",
-            "publicKey": "YBKQqcPbFlOY4Yw-DUUldDBQ0PZwq9Ergd-YbRHzy2I",
+            "publicKey": "sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM",
             "shortId": "",
             "fingerprint": "chrome"
           }
@@ -239,11 +239,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "158.160.228.216",
+              "address": "188.225.37.224",
               "port": 443,
               "users": [
                 {
-                  "id": "04913a93-529d-0212-9ffd-b37948df532b",
+                  "id": "2db2d74d-f653-459c-818e-22a294e24175",
                   "encryption": "none",
                   "flow": "xtls-rprx-vision"
                 }
@@ -255,8 +255,8 @@
           "network": "tcp",
           "security": "reality",
           "realitySettings": {
-            "serverName": "ads.x5.ru",
-            "publicKey": "sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM",
+            "serverName": "max.ru",
+            "publicKey": "lWZR5WmRc_qa11MTPhUzHF3ijTDdz7rDaTuzj9sglSs",
             "shortId": "",
             "fingerprint": "chrome"
           }
