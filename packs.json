@@ -239,35 +239,6 @@
         "settings": {
           "vnext": [
             {
-              "address": "188.225.37.224",
-              "port": 443,
-              "users": [
-                {
-                  "id": "2db2d74d-f653-459c-818e-22a294e24175",
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "security": "reality",
-          "realitySettings": {
-            "serverName": "max.ru",
-            "publicKey": "lWZR5WmRc_qa11MTPhUzHF3ijTDdz7rDaTuzj9sglSs",
-            "shortId": "",
-            "fingerprint": "chrome"
-          }
-        }
-      },
-      {
-        "tag": "lte-7",
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
               "address": "84.201.145.188",
               "port": 443,
               "users": [
