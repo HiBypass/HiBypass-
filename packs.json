@@ -152,35 +152,6 @@
         "settings": {
           "vnext": [
             {
-              "address": "89.169.39.55",
-              "port": 443,
-              "users": [
-                {
-                  "id": "c61ec320-29f1-4e00-9272-8b676e6957b4",
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "security": "reality",
-          "realitySettings": {
-            "serverName": "max.ru",
-            "publicKey": "Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU",
-            "shortId": "28a059440d3d5ba1",
-            "fingerprint": "chrome"
-          }
-        }
-      },
-      {
-        "tag": "lte-4",
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
               "address": "158.160.228.216",
               "port": 443,
               "users": [
@@ -205,16 +176,16 @@
         }
       },
       {
-        "tag": "lte-5",
+        "tag": "lte-4",
         "protocol": "vless",
         "settings": {
           "vnext": [
             {
-              "address": "188.225.78.141",
+              "address": "89.169.39.55",
               "port": 443,
               "users": [
                 {
-                  "id": "258ea6ce-8488-4560-bfef-fea2f8bb8caf",
+                  "id": "c61ec320-29f1-4e00-9272-8b676e6957b4",
                   "encryption": "none",
                   "flow": "xtls-rprx-vision"
                 }
@@ -227,14 +198,14 @@
           "security": "reality",
           "realitySettings": {
             "serverName": "max.ru",
-            "publicKey": "q7-UiP5VTNSa_KKMZV62HAND6cudj8evyGBTHl3jlTY",
-            "shortId": "6ecafcd5a84ae6ad",
-            "fingerprint": "android"
+            "publicKey": "Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU",
+            "shortId": "28a059440d3d5ba1",
+            "fingerprint": "chrome"
           }
         }
       },
       {
-        "tag": "lte-6",
+        "tag": "lte-5",
         "protocol": "vless",
         "settings": {
           "vnext": [
