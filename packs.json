@@ -210,6 +210,35 @@
         "settings": {
           "vnext": [
             {
+              "address": "188.225.78.141",
+              "port": 443,
+              "users": [
+                {
+                  "id": "258ea6ce-8488-4560-bfef-fea2f8bb8caf",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "max.ru",
+            "publicKey": "q7-UiP5VTNSa_KKMZV62HAND6cudj8evyGBTHl3jlTY",
+            "shortId": "6ecafcd5a84ae6ad",
+            "fingerprint": "android"
+          }
+        }
+      },
+      {
+        "tag": "lte-6",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
               "address": "84.201.145.188",
               "port": 443,
               "users": [
