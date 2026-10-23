@@ -123,11 +123,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "158.160.250.45",
+              "address": "84.201.181.141",
               "port": 443,
               "users": [
                 {
-                  "id": "b6083a84-80a5-3e88-9dbb-5c8ef241be3a",
+                  "id": "e34a84c4-8a52-4b4e-9a7d-cfa1a4d77e95",
                   "encryption": "none",
                   "flow": "xtls-rprx-vision"
                 }
@@ -140,8 +140,8 @@
           "security": "reality",
           "realitySettings": {
             "serverName": "ads.x5.ru",
-            "publicKey": "mDtiIWLFPJoPVrDLOCvKn6lvlS8r0TdRO9MxmmdIDmo",
-            "shortId": "917fd5a45e8840",
+            "publicKey": "0rPvIBbfmdq3YJkkNGc8p7t-1zme85V-nj3v8ekm4DE",
+            "shortId": "1b3de616b36b1233",
             "fingerprint": "chrome"
           }
         }
@@ -210,35 +210,6 @@
         "settings": {
           "vnext": [
             {
-              "address": "84.201.181.141",
-              "port": 443,
-              "users": [
-                {
-                  "id": "e34a84c4-8a52-4b4e-9a7d-cfa1a4d77e95",
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "security": "reality",
-          "realitySettings": {
-            "serverName": "ads.x5.ru",
-            "publicKey": "0rPvIBbfmdq3YJkkNGc8p7t-1zme85V-nj3v8ekm4DE",
-            "shortId": "1b3de616b36b1233",
-            "fingerprint": "chrome"
-          }
-        }
-      },
-      {
-        "tag": "lte-6",
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
               "address": "89.169.39.55",
               "port": 443,
               "users": [
@@ -263,7 +234,7 @@
         }
       },
       {
-        "tag": "lte-7",
+        "tag": "lte-6",
         "protocol": "vless",
         "settings": {
           "vnext": [
