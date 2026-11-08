@@ -5,8 +5,8 @@
 #announce: Бесплатный обход белых списков РФ 🏳🇷🇺 | ТГ : @Hibypass
 #traffic-limit: ∞
 #traffic-remaining: ∞
-vless://4d7a559b-6379-41a7-9e51-41ef759846aa@158.160.197.118:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ya.ru&fp=chrome&pbk=TrAxIFIhSCc4C5IWnGvvAs2cSD_mVag1MlTCJPeLkGg&sid=b9ceed646f470d2d&spx=%2F&type=tcp&headerType=none#🇪🇺LTE | 1 🌐 RU
+vless://6c69a2c8-9d9e-41d9-83f5-83a8264cd00d@158.160.188.11:443?type=tcp&security=reality&sni=max.ru&fp=chrome&flow=xtls-rprx-vision&pbk=iobA_bK3A-Mj4IF65agM5VbKQdbI1FDtq4WaOPkRwU4&sid=1bbbfaf553e63d8c#🇪🇺LTE | 1 🌐 RU
 vless://686988e8-0793-4ddd-80ae-b15dfc60067a@84.201.156.147:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none#🇪🇺LTE | 2 🌐 RU
-vless://04913a93-529d-0212-9ffd-b37948df532b@158.160.228.216:443?flow=xtls-rprx-vision&fp=chrome&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&security=reality&sni=ads.x5.ru#🇪🇺LTE | 3 🌐 RU
-vless://6c69a2c8-9d9e-41d9-83f5-83a8264cd00d@158.160.188.11:443?type=tcp&security=reality&sni=max.ru&fp=chrome&flow=xtls-rprx-vision&pbk=iobA_bK3A-Mj4IF65agM5VbKQdbI1FDtq4WaOPkRwU4&sid=1bbbfaf553e63d8c#🇪🇺LTE | 4 🌐 RU
+vless://4d7a559b-6379-41a7-9e51-41ef759846aa@158.160.197.118:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ya.ru&fp=chrome&pbk=TrAxIFIhSCc4C5IWnGvvAs2cSD_mVag1MlTCJPeLkGg&sid=b9ceed646f470d2d&spx=%2F&type=tcp&headerType=none#🇪🇺LTE | 3 🌐 RU
+vless://04913a93-529d-0212-9ffd-b37948df532b@158.160.228.216:443?flow=xtls-rprx-vision&fp=chrome&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&security=reality&sni=ads.x5.ru#🇪🇺LTE | 4 🌐 RU
 vless://3b6a9df3-f1d1-4bc1-94a5-0d8f2d5512b1@188.225.27.78:443?security=reality&amp;encryption=none&amp;pbk=Rf2jgZShaYRQ2kh9nF79eB2KFcIdiYHwPWJyFKA_CWU&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=max.ru#🇪🇺LTE | 5 🌐 RU
