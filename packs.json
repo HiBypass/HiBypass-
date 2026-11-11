@@ -123,11 +123,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "158.160.197.118",
-              "port": 443,
+              "address": "158.160.231.108",
+              "port": 8443,
               "users": [
                 {
-                  "id": "4d7a559b-6379-41a7-9e51-41ef759846aa",
+                  "id": "0ff47d28-d0d6-4d8f-9d44-593ea39d828f",
                   "encryption": "none",
                   "flow": "xtls-rprx-vision"
                 }
@@ -139,9 +139,9 @@
           "network": "tcp",
           "security": "reality",
           "realitySettings": {
-            "serverName": "ya.ru",
-            "publicKey": "TrAxIFIhSCc4C5IWnGvvAs2cSD_mVag1MlTCJPeLkGg",
-            "shortId": "b9ceed646f470d2d",
+            "serverName": "ads.x5.ru",
+            "publicKey": "YBKQqcPbFlOY4Yw-DUUldDBQ0PZwq9Ergd-YbRHzy2I",
+            "shortId": "",
             "fingerprint": "chrome"
           }
         }
@@ -181,11 +181,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "158.160.231.108",
-              "port": 8443,
+              "address": "158.160.197.118",
+              "port": 443,
               "users": [
                 {
-                  "id": "0ff47d28-d0d6-4d8f-9d44-593ea39d828f",
+                  "id": "4d7a559b-6379-41a7-9e51-41ef759846aa",
                   "encryption": "none",
                   "flow": "xtls-rprx-vision"
                 }
@@ -197,9 +197,9 @@
           "network": "tcp",
           "security": "reality",
           "realitySettings": {
-            "serverName": "ads.x5.ru",
-            "publicKey": "YBKQqcPbFlOY4Yw-DUUldDBQ0PZwq9Ergd-YbRHzy2I",
-            "shortId": "",
+            "serverName": "ya.ru",
+            "publicKey": "TrAxIFIhSCc4C5IWnGvvAs2cSD_mVag1MlTCJPeLkGg",
+            "shortId": "b9ceed646f470d2d",
             "fingerprint": "chrome"
           }
         }
